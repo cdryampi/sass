@@ -1,0 +1,24 @@
+header, .info {
+  height: 100vh;
+  color: rgba(174, 231, 15, 0.774);
+  background: lightcoral;
+}
+
+header button, .info button {
+  background: #554343;
+}
+
+header button::after, .info button::after {
+  content: "Hellooo";
+}
+
+header button:hover, .info button:hover {
+  background: #1c2e96;
+}
+
+.info {
+  background: lawngreen;
+  background: #db8709;
+  widows: 80%;
+}
+/*# sourceMappingURL=style.css.map */

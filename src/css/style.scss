@@ -1,0 +1,10 @@
+@import './variables';
+@import './header';
+.info {
+    // @include flexCenter(row, blue);
+    @extend header;
+    background: lawngreen;
+    background: rgb(219, 135, 9);
+    widows: 100% - 20%;
+    // + / - *
+}
