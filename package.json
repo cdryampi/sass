@@ -8,9 +8,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/cdryampi/sass.git"
+        "url": "https://github.com/cdryampi/sass.git"
     },
-    "author": "CDR yampi y alexis900",
+    "author": "CDR yampi y alexis900 y itsdavidsgit",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/cdryampi/sass/issues"
@@ -20,6 +20,7 @@
         "babel-cli": "^6.26.0",
         "express": "^4.17.1",
         "nodejs": "0.0.0",
-        "nodemon": "^1.19.2"
+        "nodemon": "^1.19.2",
+        "package.json": "^2.0.1"
     }
 }
